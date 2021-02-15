@@ -1,6 +1,6 @@
 # intranet-ip
 
-[![Build Status](https://img.shields.io/travis/vicanso/intranet_ip.svg?label=linux+build)](https://travis-ci.org/vicanso/intranet_ip)
+[![Build Status](https://github.com/vicanso/intranet-ip/workflows/Test/badge.svg)](https://github.com/vicanso/intranet-ip/actions)
 
 Determine if the IP address is an intranet IP
 
